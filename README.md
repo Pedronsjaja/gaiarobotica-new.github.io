@@ -1,4 +1,40 @@
-# Projeto GAIA · UFTM
+<div align="center">
+
+<h1>🌱 Projeto GAIA &#183; UFTM</h1>
+<p><strong>Projetos, pessoas, conquistas e conte&#250;do t&#233;cnico em um site est&#225;tico.</strong></p>
+<p><kbd>HTML &#183; CSS &#183; JavaScript &#183; Python</kbd></p>
+
+<p><a href="https://github.com/Pedronsjaja/gaiarobotica-new.github.io/stargazers"><img alt="Estrelas no GitHub" src="https://img.shields.io/github/stars/Pedronsjaja/gaiarobotica-new.github.io?style=flat-square&amp;color=147d68"/></a> <a href="https://github.com/Pedronsjaja/gaiarobotica-new.github.io/commits/main"><img alt="Último commit" src="https://img.shields.io/github/last-commit/Pedronsjaja/gaiarobotica-new.github.io?style=flat-square&amp;color=235789"/></a></p>
+<p><a href="#inicio-rapido">Comece aqui</a> · <a href="#guia-do-projeto">Documentação</a> · <a href="https://github.com/Pedronsjaja/gaiarobotica-new.github.io/tree/main">Arquivos</a></p>
+
+</div>
+
+<a id="inicio-rapido"></a>
+## 🚀 Comece aqui
+
+**[Visitar o site do projeto](https://gaiarobotca.github.io/gaiarobotica-new.github.io/)**
+
+> Esta é uma cópia de desenvolvimento com histórico. Créditos, autoria e instruções do projeto original estão preservados na documentação abaixo.
+
+| Conteúdo | Manutenção | Qualidade |
+| --- | --- | --- |
+| Projetos, equipe, notícias, conquistas e guias. | Componentes compartilhados e metadados sincronizados. | Validação estática e verificações no navegador. |
+
+### Caminho do projeto
+
+```mermaid
+flowchart LR
+  N0["Editar conteúdo"]
+  N1["Sincronizar componentes"]
+  N0 --> N1
+  N2["Validar páginas"]
+  N1 --> N2
+  N3["Publicar"]
+  N2 --> N3
+```
+
+<a id="guia-do-projeto"></a>
+## 📖 Documentação
 
 Site do projeto GAIA, com projetos, equipe, conquistas e guias de robótica.
 
@@ -102,3 +138,4 @@ As prévias de compartilhamento usam `assets/images/social/gaia-g-preview-hd.png
 O GitHub Pages deste repositório publica a raiz da branch `main`. Depois de validar, envie o commit e acompanhe a execução de `pages build and deployment` no GitHub Actions. Confira o site publicado antes de divulgar o link do portal na bio.
 
 Fontes das correções históricas, como o resultado da SAE em junho de 2025 e o HackaGIS Saúde, estão vinculadas nos próprios relatos.
+
