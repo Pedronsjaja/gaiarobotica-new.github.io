@@ -139,3 +139,7 @@ O GitHub Pages deste repositório publica a raiz da branch `main`. Depois de val
 
 Fontes das correções históricas, como o resultado da SAE em junho de 2025 e o HackaGIS Saúde, estão vinculadas nos próprios relatos.
 
+
+## Engenharia e validacao
+
+[Estado tecnico, validacao e proximos passos](docs/engineering-status.md).
